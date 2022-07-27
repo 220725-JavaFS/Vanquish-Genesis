@@ -19,3 +19,5 @@ This repository contains all of the assignments for team Vanquish-Genesis
   ### Contact Info:
  hunter397@revature.net
  
+ alejandro568@revature.net
+ 
