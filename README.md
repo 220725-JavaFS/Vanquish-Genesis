@@ -24,3 +24,5 @@ This repository contains all of the assignments for team Vanquish-Genesis
 solomon512@revature.net
 
 saumik148@revature.net
+
+dustin521@revature.net
