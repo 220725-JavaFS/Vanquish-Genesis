@@ -4,7 +4,7 @@ This repository contains all of the assignments for team Vanquish-Genesis
 
 ## Table of Contents
   1. HelloWorld.java
-  2. (NEXT PROJECT)
+  2. Project2
   3. ETC...
   
   ## HelloWorld.java
